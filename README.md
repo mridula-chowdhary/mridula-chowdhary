@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 🤝 I’m looking for help with **with Open Source Contribution**
+- 🤝 I’m looking for help with **Open Source Contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mridula-chowdhary](https://github.com/mridula-chowdhary)
 
