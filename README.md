@@ -37,5 +37,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridula-chowdhary&show_icons=true&locale=en" alt="mridula-chowdhary" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridula-chowdhary&" alt="mridula-chowdhary" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=mridula-chowdhary&" alt="mridula-chowdhary" /></p>
 
