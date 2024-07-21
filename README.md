@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridula-chowdhary&label=Profile%20views&color=0e75b6&style=flat" alt="mridula-chowdhary" /> </p>
 
-- 🔭 I’m currently working on [ShopVista](https://github.com/mridula-chowdhary/ShopVista)
+- 🔭 I’m currently working on [Food Corner](https://github.com/mridula-chowdhary/food-corner)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
